@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java 9 Module.iml" filepath="$PROJECT_DIR$/Java 9 Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rahi.main/rahi.main.iml" filepath="$PROJECT_DIR$/rahi.main/rahi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rahi.util/rahi.util.iml" filepath="$PROJECT_DIR$/rahi.util/rahi.util.iml" />
     </modules>
   </component>
 </project>
